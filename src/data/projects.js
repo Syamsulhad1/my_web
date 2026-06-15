@@ -55,4 +55,12 @@ export const projects = [
     tech: ["IoT", "Sensor", "Security System", "Monitoring"],
     category: "IoT Security",
   },
+  {
+    id: 8,
+    title: "UI/UX management Mikrotik",
+    description: "Desain UI/UX untuk manajemen jaringan MikroTik.",
+    detail: "Project desain antarmuka pengguna dan pengalaman pengguna untuk aplikasi manajemen jaringan MikroTik.",
+    tech: ["UI/UX Design", "MikroTik", "User Experience"],
+    category: "Design",
+  }
 ]
